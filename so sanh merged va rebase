@@ -1,3 +1,7 @@
+						
+						So sanh merge va rebase
+
+
 1.Merge
 - Khi thuc hiện merge, dẫn tới các kết hợp các commit từ nhánh future tới nhánh master. Nó lấy nội dung trên nhánh future tích hợp vào nhánh master. 
 - kết quả là chỉ có nhánh master thay đổi, những lịch sử trên nhánh future vẫn còn.
@@ -11,4 +15,5 @@
 
 2.Rebase
 - Khi thực hiện Rebase thì sẽ thêm tất những thay dổi trên nhánh future nối tiếp vào điểm commit cuối cùng trên nhánh master
-- Lịch sửu project gọn gàng, tạo rs đường thẳng commit
+- Lịch sửu project gọn gàng, tạo ra đường thẳng commit
+-
