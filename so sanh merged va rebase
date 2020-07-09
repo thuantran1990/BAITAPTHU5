@@ -5,7 +5,7 @@
 1.Merge
 - Khi thuc hiện merge, dẫn tới các kết hợp các commit từ nhánh future tới nhánh master. Nó lấy nội dung trên nhánh future tích hợp vào nhánh master. 
 - kết quả là chỉ có nhánh master thay đổi, những lịch sử trên nhánh future vẫn còn.
-- lúc này sẽ thêm 1 commit mới tơi lịch sử của bạn, nếu có nhiều nhánh merger vào master, tạo nhiều comit merge mới, điều này sẽ khó khăn khi xem lại lịch sử
+- Banhmipatetrung
 
 
 
