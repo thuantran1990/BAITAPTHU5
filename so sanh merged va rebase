@@ -12,8 +12,11 @@
 
 
 
-
 2.Rebase
 - Khi thực hiện Rebase thì sẽ thêm tất những thay dổi trên nhánh future nối tiếp vào điểm commit cuối cùng trên nhánh master
 - Lịch sửu project gọn gàng, tạo ra đường thẳng commit
 -
+
+
+minh:
+
